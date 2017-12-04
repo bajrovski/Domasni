@@ -1,0 +1,47 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url(images/hotel3.jpg);
+}
+
+.main {
+	margin: 0 auto;
+}
+
+#licnipodatoci {
+	border: 1px solid black;
+	width: 175px;
+	height: auto;
+	margin: 0 auto;
+	background-color: rgba(0, 0, 0, 0.85);
+	color: gold;
+	text-align: center;
+}
+
+#licnipodatoci img {
+	position: relative;
+	margin: 0 100px 0 100px;
+	height: 180px;
+	width: 180px;
+	border-radius: 15px;
+}
+
+#licnipodatoci input {
+	border-radius: 7px;
+}
+
+#licnipodatoci select {
+	border-radius: 7px;
+}
+
+.kopce {
+	width: 160px !important;
+	height: 30px !important;
+	border: 1px solid gold;
+	display: block;
+	color: gold;
+	background-color: black;
+	text-align: center;
+	margin: 0 auto;
+	border-radius: 2px;
+}
